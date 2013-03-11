@@ -1,0 +1,7 @@
+//1º Cambio compartido Andresgg79
+
+Soy un fichero de texto y me llamo fichero3.txt
+
+
+Tengo varias líneas.
+
