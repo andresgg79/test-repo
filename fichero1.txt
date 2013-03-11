@@ -1,5 +1,7 @@
-Este es mi primer fichero para git
+Este es mi primer fichero de prueba para git
 
 Metemos mas cambios.
+
+Otro cambio al fichero entre medias
 
 wadus wadus blabla
