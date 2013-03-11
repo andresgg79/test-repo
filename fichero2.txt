@@ -1,0 +1,3 @@
+Este es el fichero2.
+
+Linea del fichero.
