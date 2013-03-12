@@ -1,3 +1,5 @@
 Este es el fichero2.
 
+CONFLICTOOOOO: Linea en medio
+
 Linea del fichero.
